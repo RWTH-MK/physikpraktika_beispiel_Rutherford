@@ -1,5 +1,5 @@
 ## Was ist das?
-Eine Beispielanwendung der [https://github.com/RWTH-MK/physikpraktika](physikpraktika)-Bibliothek anhand des [https://www.phywe.com/experiments-sets/nobel-prize-experiments/rutherford-experiment-with-mca_10194_11125/](Phywe Rutherford-Streuversuchs).
+Eine Beispielanwendung der [physikpraktika](https://github.com/RWTH-MK/physikpraktika)-Bibliothek anhand des [Phywe Rutherford-Streuversuchs](https://www.phywe.com/experiments-sets/nobel-prize-experiments/rutherford-experiment-with-mca_10194_11125/).
 
 ## Wie funktioniert es?
 Im Ordner `Rutherford` befindet sich die Datei `auswertung.py`. Diese zeigt wie mithilfe von `uncertainties` und `physikpraktika` in wenigen Zeilen eine volle grafische Auswertung gelingen kann. Zur Einfachheit ist dieser direkt im Ordner hinterlegt.
